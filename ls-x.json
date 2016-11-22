@@ -1,378 +1,424 @@
 [
     {
-        "entries": [
-            "ks, although etymologically it represented not only cs (as in lux, from luc-s, and dixi, from dic-si), but also gs (as in lex, from leg-s; rexi, from reg-si); hs (as in traxi, from trah-si; vexi, from vehsi); and chs (as in the word onyx, from onych-s, borrowed from the Greek). The hardening of a softer final (g, h, ch) before s into the c-sound, which occurs in the last-mentioned cases, is found also in several roots ending in v and u: nix for niv-s, vixi for viv-si, connixi for conniv-si, fluxi for fluv-si, from fluo (root FLUV; cf. fluvius), struxi for stru-si. Less frequently x has arisen from the combinations ps and ts: proximus for prop-simus (from prope), nixus for nit-sus (from nitor), the latter being used along with the collateral form nisus, as also connivi with connixi, and mistus (from misceo) with mixtus. An exchange of the sounds ss, or s and x, took place in axis for assis, laxus for lassus; cf. also Ulixes, from the Sicilian *ou)li/chs, Etruscan Uluxe for *)odusseu/s; so, too. Sextius, Exquiliae = Sestius, Esquiliae; cf. also Ajax = *ai)/as. In the later language of the vulgar, the guttural sound in x disappeared, and s or ss was often written for it; as vis for vix. vixit for visit. unsit for unxit, conflississet for conflixisset, in late Inscrr. (v. Corss. Ausspr. I. p. 297 sq.); hence regularly in Italian, and frequently in the  other Romance tongues, the Lat. x is represented by s or ss. Respecting the nature of x in composition, v. ex.By a mere graphic variation, one of the constituent sounds of x is often expressed in inscriptions (but not the earliest, v. Corss. Ausspr. I. p. 296) by an additional c or s; as SACXO or SAXSO for saxo; VCXOR or VXSOR for uxor; CONIVNCX or CONIVNXS for conjux; even both sounds are sometimes thus expressed, VICXSIT for vixit.As an abbreviation X stands for decem, ten; it was stamped upon the silver denarius, so called because it was valued at ten asses."
-        ],
         "front_matter": "X, x, a character probably derived from the Greek *c (this form of that letter being found in some few Greek inscriptions). Though not introduced instead of the characters for the two separate sounds till after the adoption of the alphabet, the letter x is certainly older than the Latin inscriptions known to us; for we find in the Columna rostr., EXEMET MAXIMOS, EXFOCIONT; in the fifth Epitaph of the Scipios, SAXSVM; and in the S. C. de Bacch., EXDEICENDVM, EXDEICATIS. EXTRAD, etc.The sound of X was like that of the Greek c, i. e. ",
         "key": "X",
+        "part_of_speech": "letter",
+        "senses": [
+            "ks, although etymologically it represented not only cs (as in lux, from luc-s, and dixi, from dic-si), but also gs (as in lex, from leg-s; rexi, from reg-si); hs (as in traxi, from trah-si; vexi, from vehsi); and chs (as in the word onyx, from onych-s, borrowed from the Greek). The hardening of a softer final (g, h, ch) before s into the c-sound, which occurs in the last-mentioned cases, is found also in several roots ending in v and u: nix for niv-s, vixi for viv-si, connixi for conniv-si, fluxi for fluv-si, from fluo (root FLUV; cf. fluvius), struxi for stru-si. Less frequently x has arisen from the combinations ps and ts: proximus for prop-simus (from prope), nixus for nit-sus (from nitor), the latter being used along with the collateral form nisus, as also connivi with connixi, and mistus (from misceo) with mixtus. An exchange of the sounds ss, or s and x, took place in axis for assis, laxus for lassus; cf. also Ulixes, from the Sicilian *ou)li/chs, Etruscan Uluxe for *)odusseu/s; so, too. Sextius, Exquiliae = Sestius, Esquiliae; cf. also Ajax = *ai)/as. In the later language of the vulgar, the guttural sound in x disappeared, and s or ss was often written for it; as vis for vix. vixit for visit. unsit for unxit, conflississet for conflixisset, in late Inscrr. (v. Corss. Ausspr. I. p. 297 sq.); hence regularly in Italian, and frequently in the  other Romance tongues, the Lat. x is represented by s or ss. Respecting the nature of x in composition, v. ex.By a mere graphic variation, one of the constituent sounds of x is often expressed in inscriptions (but not the earliest, v. Corss. Ausspr. I. p. 296) by an additional c or s; as SACXO or SAXSO for saxo; VCXOR or VXSOR for uxor; CONIVNCX or CONIVNXS for conjux; even both sounds are sometimes thus expressed, VICXSIT for vixit.As an abbreviation X stands for decem, ten; it was stamped upon the silver denarius, so called because it was valued at ten asses."
+        ],
         "type": "main"
     },
     {
-        "entries": [
-            "the Macedonian name of a month which corresponded to the Roman Aprilis, Cassiod. Hist. Eccl. 9, 38."
-        ],
         "front_matter": "Xanthĭcus, a, um, adj. (sc. mensis), ",
         "key": "Xanthicus",
+        "part_of_speech": "adjective",
+        "senses": [
+            "the Macedonian name of a month which corresponded to the Roman Aprilis, Cassiod. Hist. Eccl. 9, 38."
+        ],
         "type": "main"
     },
     {
-        "entries": [
-            "the wife of Socrates, Cic. Tusc. 3, 15, 31; Gell. 1, 17, 1."
-        ],
         "front_matter": "Xanthippē, ēs, f., = *canqi/pph, ",
         "key": "Xanthippe",
+        "part_of_speech": "noun",
+        "senses": [
+            "the wife of Socrates, Cic. Tusc. 3, 15, 31; Gell. 1, 17, 1."
+        ],
         "type": "main"
     },
     {
-        "entries": [
+        "front_matter": "Xanthippus, i, m., = *ca/nqippos. ",
+        "key": "Xanthippus",
+        "part_of_speech": "noun",
+        "senses": [
             "The father of Pericles, Cic. Brut. 11, 44.— ",
             "A Lacedoemonian, who took Regulus prisoner, Cic. Off. 3, 26, 99."
         ],
-        "front_matter": "Xanthippus, i, m., = *ca/nqippos. ",
-        "key": "Xanthippus",
         "type": "main"
     },
     {
-        "entries": [
-            "a sea-nymph, daughter of Nereus and Doris, Verg. G. 4, 336."
-        ],
         "front_matter": "Xantho, ūs, f., = *canqw/, ",
         "key": "Xantho",
+        "part_of_speech": "noun",
+        "senses": [
+            "a sea-nymph, daughter of Nereus and Doris, Verg. G. 4, 336."
+        ],
         "type": "main"
     },
     {
-        "entries": [
-            "a precious stone of a golden color, otherwise unknown, Plin. 37, 10, 60, § 169."
-        ],
         "front_matter": "xanthos, i, m., = ca/nqos, ",
         "key": "xanthos",
+        "part_of_speech": "noun",
+        "senses": [
+            "a precious stone of a golden color, otherwise unknown, Plin. 37, 10, 60, § 169."
+        ],
         "type": "greek"
     },
     {
-        "entries": [
+        "front_matter": "Xanthus, i, m., = *ca/nqos, ",
+        "key": "Xanthus",
+        "part_of_speech": "noun",
+        "senses": [
             "the name of several rivers.",
             "A river of Troas, confounded by many with the Scamander, Plin. 5, 30, 33, § 124; 2, 103, 106, § 230; Verg. A. 1, 473; 5, 634 al.; Ov. M. 2, 245; 9, 646; Vitr. 8, 3 med.—",
             "A river in Lycia, near a town of the same name, now Essenide, Mel. 1, 15, 3; Verg. A. 4, 143; id. Cul. 14; Hor. C. 4, 6, 26; Plin. 5, 27, 28, § 100; 6, 34, 39, § 214.—",
             "A small stream in Epirus, Verg. A. 3, 350."
         ],
-        "front_matter": "Xanthus, i, m., = *ca/nqos, ",
-        "key": "Xanthus",
         "type": "main"
     },
     {
-        "entries": [
-            "a Corinthian who purchased and liberated Diogenes the Cynic, Gell. 2, 18, 9."
-        ],
         "front_matter": "Xĕniădes, is, m., = *cenia/dhs, ",
         "key": "Xeniades",
+        "part_of_speech": "noun",
+        "senses": [
+            "a Corinthian who purchased and liberated Diogenes the Cynic, Gell. 2, 18, 9."
+        ],
         "type": "main"
     },
     {
-        "entries": [
-            "a small gift or present, App. M. 2, p. 119, 24; Dig. 1, 16, 6."
-        ],
         "front_matter": "xĕnĭŏlum, i, n.dim.xenium, ",
         "key": "xeniolum",
+        "part_of_speech": "noun",
+        "senses": [
+            "a small gift or present, App. M. 2, p. 119, 24; Dig. 1, 16, 6."
+        ],
         "type": "main"
     },
     {
-        "entries": [
+        "front_matter": "xĕnĭum, ii, n., = ce/nion, ",
+        "key": "xenium",
+        "part_of_speech": "noun",
+        "senses": [
             "a gift or present made to a guest (pure Lat. lautia). ",
             "Lit., Plin. Ep. 6, 31, 14; Vitr. 6, 10.—Hence, Xenia, the title of the thirteenth book of Martial's epigrams, because treating of such things as were usually presented to guests, Mart. 13, 3, 1.—",
             "Transf., in gen., a gift. present, Plin. Ep. 5, 14, 8; Dig. 1, 16, 6; Vulg. Ecclus. 20, 31."
         ],
-        "front_matter": "xĕnĭum, ii, n., = ce/nion, ",
-        "key": "xenium",
         "type": "greek"
     },
     {
-        "entries": [
-            "an Epicurean philosopher, a native of Athens, Cic. Att. 5, 10, 5; 5, 11, 6; 7, 1, 1; 13, 37, 1."
-        ],
         "front_matter": "Xĕno, ōnis, m., = *ce/nwn, ",
         "key": "Xeno",
+        "part_of_speech": "noun",
+        "senses": [
+            "an Epicurean philosopher, a native of Athens, Cic. Att. 5, 10, 5; 5, 11, 6; 7, 1, 1; 13, 37, 1."
+        ],
         "type": "main"
     },
     {
-        "entries": [
-            "a rhetorician of Adramytteum, Cic. Brut. 91, 316."
-        ],
         "front_matter": "Xĕnocles, is, m., = *cenoklh=s, ",
         "key": "Xenocles",
+        "part_of_speech": "noun",
+        "senses": [
+            "a rhetorician of Adramytteum, Cic. Brut. 91, 316."
+        ],
         "type": "main"
     },
     {
-        "entries": [
+        "front_matter": "Xĕnŏcrătes, is, m., = *cenokra/ths, ",
+        "key": "Xenocrates",
+        "part_of_speech": "noun",
+        "senses": [
             "a disciple of Plato, born at Chalcedon in the 95th Olympiad, B. C. 400, Cic. Ac. 1, 4, 17; id. Tusc. 5, 18, 51; id. Off. 1, 30, 109; id. Rep. 1, 2, 3.—",
             "A sculptor, a pupil of Tisicrates, and author of works on sculpture, Plin. 34, 8, 19, § 83.—",
             "A writer on the art of painting, Plin. 35, 10, 36, § 68."
         ],
-        "front_matter": "Xĕnŏcrătes, is, m., = *cenokra/ths, ",
-        "key": "Xenocrates",
         "type": "main"
     },
     {
-        "entries": [
-            "a public building for the reception of strangers, a caravansary, a stranger's hospital (syn. deversorium), Hier. Ep. 66, 11; Cod. Just. 1, 2, 17; 1, 3, 33; 1, 3, 35. —Called also xĕnōn, ōnis, Cod. Just. 1, 2, 19 al."
-        ],
         "front_matter": "xĕnŏdŏchīum or -ēum, i, n., = cenodoxei=on, ",
         "key": "xenodochium",
+        "part_of_speech": "noun",
+        "senses": [
+            "a public building for the reception of strangers, a caravansary, a stranger's hospital (syn. deversorium), Hier. Ep. 66, 11; Cod. Just. 1, 2, 17; 1, 3, 33; 1, 3, 35. —Called also xĕnōn, ōnis, Cod. Just. 1, 2, 19 al."
+        ],
         "type": "greek"
     },
     {
-        "entries": [
-            "one who receives strangers, a superintendent of the stranger's hospital, Cod. Just. 1, 8, 33 fin."
-        ],
         "front_matter": "xĕnŏdŏchus, i, m., = cenodo/xos, ",
         "key": "xenodochus",
+        "part_of_speech": "noun",
+        "senses": [
+            "one who receives strangers, a superintendent of the stranger's hospital, Cod. Just. 1, 8, 33 fin."
+        ],
         "type": "greek"
     },
     {
-        "entries": [],
         "front_matter": "xĕnōn, v. xenodochium.",
         "key": "xenon",
+        "part_of_speech": null,
+        "senses": [],
         "type": "main"
     },
     {
-        "entries": [
-            "one who attends to or provides for strangers, Dig. 5, 4, 18."
-        ],
         "front_matter": "xĕnŏpărŏchus, i, m., = cenopa/roxos, ",
         "key": "xenoparochus",
+        "part_of_speech": "noun",
+        "senses": [
+            "one who attends to or provides for strangers, Dig. 5, 4, 18."
+        ],
         "type": "greek"
     },
     {
-        "entries": [
-            "a celebrated Greek philosopher of Colophon, born about B. C. 556, a disciple of Archelous, Cic. Ac. 2, 37, 118; id. N. D. 1, 11, 28; id. Div. 1, 3, 5; 1, 39, 87; Lact. 3, 23, 11."
-        ],
         "front_matter": "Xĕnŏphănes, is, m., = *cenofa/nhs, ",
         "key": "Xenophanes",
+        "part_of_speech": "noun",
+        "senses": [
+            "a celebrated Greek philosopher of Colophon, born about B. C. 556, a disciple of Archelous, Cic. Ac. 2, 37, 118; id. N. D. 1, 11, 28; id. Div. 1, 3, 5; 1, 39, 87; Lact. 3, 23, 11."
+        ],
         "type": "main"
     },
     {
-        "entries": [
-            "a Pythagorean philosopher and musician, Val. Max. 8, 13, ext. 2; Plin. 7, 50, 51 § 168."
-        ],
         "front_matter": "Xĕnŏphĭlus, i, m., = *ceno/filos, ",
         "key": "Xenophilus",
+        "part_of_speech": "noun",
+        "senses": [
+            "a Pythagorean philosopher and musician, Val. Max. 8, 13, ext. 2; Plin. 7, 50, 51 § 168."
+        ],
         "type": "main"
     },
     {
-        "entries": [
-            "a celebratea Greek historian and philosopher, born B. C. 445, a pupil of Socrates and a leader of the Greeks in the army of Cyrus  the younger, Cic. Div. 1, 25, 52; id. Tusc. 5, 34, 99; id. Sen. 9, 30; id. Leg. 2, 22, 56; Varr. R. R. 1, 1, 8.—Hence, Xĕnŏphontēus or -īus, a, um, adj., = *cenofo/nteios, of or belonging to Xenophon, Xenophontian: genus sermonis,Cic. Brut. 35, 132: Hercules,i. e. mentioned in his writings,id. Fam. 5, 12, 3."
-        ],
         "front_matter": "Xĕnŏphon, ontis, m., = *cenofw=n, ",
         "key": "Xenophon",
+        "part_of_speech": "noun",
+        "senses": [
+            "a celebratea Greek historian and philosopher, born B. C. 445, a pupil of Socrates and a leader of the Greeks in the army of Cyrus  the younger, Cic. Div. 1, 25, 52; id. Tusc. 5, 34, 99; id. Sen. 9, 30; id. Leg. 2, 22, 56; Varr. R. R. 1, 1, 8.—Hence, Xĕnŏphontēus or -īus, a, um, adj., = *cenofo/nteios, of or belonging to Xenophon, Xenophontian: genus sermonis,Cic. Brut. 35, 132: Hercules,i. e. mentioned in his writings,id. Fam. 5, 12, 3."
+        ],
         "type": "main"
     },
     {
-        "entries": [
-            "dark-red or dark-colored clothes, Juv. 6, 519."
-        ],
         "front_matter": "xērampĕlĭnae, ārum. f. (sc. vestes), = chrampelinai (of the color of dry vineleaves), ",
         "key": "xerampelinae",
+        "part_of_speech": "noun",
+        "senses": [
+            "dark-red or dark-colored clothes, Juv. 6, 519."
+        ],
         "type": "greek"
     },
     {
-        "entries": [
-            "drying: decoctio, Macer, 1, 88; Theod. Prisc. 2, 3."
-        ],
         "front_matter": "xērantĭcus, a, um, adj., = chrantiko/s, ",
         "key": "xeranticus",
+        "part_of_speech": "adjective",
+        "senses": [
+            "drying: decoctio, Macer, 1, 88; Theod. Prisc. 2, 3."
+        ],
         "type": "greek"
     },
     {
-        "entries": [
-            "a dry salve, Marc. Emp. 8, 3."
-        ],
         "front_matter": "xērŏcollȳrĭum, ii, n., = chrokollu/rion, ",
         "key": "xerocollyrium",
+        "part_of_speech": "noun",
+        "senses": [
+            "a dry salve, Marc. Emp. 8, 3."
+        ],
         "type": "greek"
     },
     {
-        "entries": [
-            "the name of a place in Byzantium, Just. Inst. 4, 18, 5; Prisc. p. 347 P."
-        ],
         "front_matter": "Xērŏlŏphus, i, m., = *chro/lofos (prop. Dry Hill), ",
         "key": "Xerolophus",
+        "part_of_speech": "noun",
+        "senses": [
+            "the name of a place in Byzantium, Just. Inst. 4, 18, 5; Prisc. p. 347 P."
+        ],
         "type": "main"
     },
     {
-        "entries": [
-            "dry myrrh, Sedul. Hymn. 2, 81."
-        ],
         "front_matter": "xērŏmyrrha, ae, f. (chro/s-mu/rra), ",
         "key": "xeromyrrha",
+        "part_of_speech": "noun",
+        "senses": [
+            "dry myrrh, Sedul. Hymn. 2, 81."
+        ],
         "type": "main"
     },
     {
-        "entries": [
-            "the eating of dry food: xerophagias observare, Tert. adv Psych. 1 fin."
-        ],
         "front_matter": "xērŏphăgĭa, ae, f., = chrofagi/a, ",
         "key": "xerophagia",
+        "part_of_speech": "noun",
+        "senses": [
+            "the eating of dry food: xerophagias observare, Tert. adv Psych. 1 fin."
+        ],
         "type": "greek"
     },
     {
-        "entries": [
-            "a dry soreness of the eyes, an inflammation of the eyes, Marc. Emp. 8, 3 (in Cels. 6, 6, 29, written as Greek)."
-        ],
         "front_matter": "xērophthalmĭa, ae, f., = chrofqalmi/a, ",
         "key": "xerophthalmia",
+        "part_of_speech": "noun",
+        "senses": [
+            "a dry soreness of the eyes, an inflammation of the eyes, Marc. Emp. 8, 3 (in Cels. 6, 6, 29, written as Greek)."
+        ],
         "type": "greek"
     },
     {
-        "entries": [
-            "the celebrated king of Persia, son of Darius Hystaspis, vanquished by the Greeks at Salamis, Cic. Tusc. 5, 7, 20; id. N. D. 1, 41, 115."
-        ],
         "front_matter": "Xerxes (Xerses, Cic. Leg. 2, 10, 26), is (i, Nep. Reg. 1), m., = *ce/rchs, ",
         "key": "Xerxes",
+        "part_of_speech": "noun",
+        "senses": [
+            "the celebrated king of Persia, son of Darius Hystaspis, vanquished by the Greeks at Salamis, Cic. Tusc. 5, 7, 20; id. N. D. 1, 41, 115."
+        ],
         "type": "main"
     },
     {
-        "entries": [
+        "front_matter": "xĭphĭas, ae, m., = cifi/as (swordshaped). ",
+        "key": "xiphias",
+        "part_of_speech": "noun",
+        "senses": [
             "A sword-fish: Xiphias gladius, Linn.; Plin. 32, 2, 6, § 15; Ov. Hal. 97. —",
             "A sword-shaped comet, Plin. 2, 25, 22, § 89."
         ],
-        "front_matter": "xĭphĭas, ae, m., = cifi/as (swordshaped). ",
-        "key": "xiphias",
         "type": "greek"
     },
     {
-        "entries": [
-            "sword-flag, gladiole, Plin. 25, 11, 88, § 137."
-        ],
         "front_matter": "xĭphĭon, ii, n., = cifi/on, ",
         "key": "xiphion",
+        "part_of_speech": "noun",
+        "senses": [
+            "sword-flag, gladiole, Plin. 25, 11, 88, § 137."
+        ],
         "type": "greek"
     },
     {
-        "entries": [
-            "a son of Helen, grandson of Deucalion, and father of a branch of the Hellenic nation, T. Mam. Syll. 884."
-        ],
         "front_matter": "Xūthus, i, m., = *cou=qos, ",
         "key": "Xuthus",
+        "part_of_speech": "noun",
+        "senses": [
+            "a son of Helen, grandson of Deucalion, and father of a branch of the Hellenic nation, T. Mam. Syll. 884."
+        ],
         "type": "main"
     },
     {
-        "entries": [
-            "Xyline come,a village in Pamphylia,Liv. 38, 15."
-        ],
         "front_matter": "Xylĭnē, ēs, f. (culi/nh): ",
         "key": "Xyline",
+        "part_of_speech": "noun",
+        "senses": [
+            "Xyline come,a village in Pamphylia,Liv. 38, 15."
+        ],
         "type": "main"
     },
     {
-        "entries": [
-            "cotton, Plin. 19, 1, 2, § 14."
-        ],
         "front_matter": "xylĭnum, i, n., = cu/linon, ",
         "key": "xylinum",
+        "part_of_speech": "noun",
+        "senses": [
+            "cotton, Plin. 19, 1, 2, § 14."
+        ],
         "type": "greek"
     },
     {
-        "entries": [
-            "balsam-wood, the wood of the balsamtree, Plin. 12, 25, 54, § 118; 13, 1, 2, §§ 13, 15; 29, 3, 13, § 56."
-        ],
         "front_matter": "xylŏbalsămum, i, n., = culoba/lsamon, ",
         "key": "xylobalsamum",
+        "part_of_speech": "noun",
+        "senses": [
+            "balsam-wood, the wood of the balsamtree, Plin. 12, 25, 54, § 118; 13, 1, 2, §§ 13, 15; 29, 3, 13, § 56."
+        ],
         "type": "greek"
     },
     {
-        "entries": [
-            "the wood of the cassia, cassia-wood, Dig. 39, 4, 16, § 7."
-        ],
         "front_matter": "xylŏcassĭa, ae, f., = culokassi/a, ",
         "key": "xylocassia",
+        "part_of_speech": "noun",
+        "senses": [
+            "the wood of the cassia, cassia-wood, Dig. 39, 4, 16, § 7."
+        ],
         "type": "greek"
     },
     {
-        "entries": [
-            "the wood of the cinnamonshrub, cinnamon-wood, Plin. 12, 19, 42, § 91; Dig. 39, 4, 16, § 7.—Also contracted, xylŏ-cinnămum, i, n., Scrib. Comp. 271."
-        ],
         "front_matter": "xylŏcinnămōmum, i, n., = culokinna/mwmon, ",
         "key": "xylocinnamomum",
+        "part_of_speech": "noun",
+        "senses": [
+            "the wood of the cinnamonshrub, cinnamon-wood, Plin. 12, 19, 42, § 91; Dig. 39, 4, 16, § 7.—Also contracted, xylŏ-cinnămum, i, n., Scrib. Comp. 271."
+        ],
         "type": "greek"
     },
     {
-        "entries": [
-            "in partic.),the cotton-tree,Plin. 19, 1, 2, § 14."
-        ],
         "front_matter": "xylon, i, n., = cu/lon (wood; ",
         "key": "xylon",
+        "part_of_speech": "noun",
+        "senses": [
+            "in partic.),the cotton-tree,Plin. 19, 1, 2, § 14."
+        ],
         "type": "greek"
     },
     {
-        "entries": [
-            "a kind of herb, comfrey, App. Herb. 59."
-        ],
         "front_matter": "xylŏphytum (-on), i, n., = culo/futon, ",
         "key": "xylophytum",
+        "part_of_speech": "noun",
+        "senses": [
+            "a kind of herb, comfrey, App. Herb. 59."
+        ],
         "type": "main"
     },
     {
-        "entries": [
-            "a town of Thessaly, Liv. 32, 13, 14; 33, 3, 8; 39, 26, 2."
-        ],
         "front_matter": "Xȳnĭae, ārum, f., ",
         "key": "Xyniae",
+        "part_of_speech": "noun",
+        "senses": [
+            "a town of Thessaly, Liv. 32, 13, 14; 33, 3, 8; 39, 26, 2."
+        ],
         "type": "main"
     },
     {
-        "entries": [
-            "wild iris, Plin. 21, 20, 83, § 143."
-        ],
         "front_matter": "xyris, ĭdis, f., = curi/s, ",
         "key": "xyris",
+        "part_of_speech": "noun",
+        "senses": [
+            "wild iris, Plin. 21, 20, 83, § 143."
+        ],
         "type": "greek"
     },
     {
-        "entries": [
-            "the master, director, or manager of a xystus, Amm. 21, 1, 4; Tert. ad Mart. 3."
-        ],
         "front_matter": "xystarches, ae, m., = custa/rxhs, ",
         "key": "xystarches",
+        "part_of_speech": "noun",
+        "senses": [
+            "the master, director, or manager of a xystus, Amm. 21, 1, 4; Tert. ad Mart. 3."
+        ],
         "type": "greek"
     },
     {
-        "entries": [
-            "a people of Caria, Plin. 5, 29, 29, § 109."
-        ],
         "front_matter": "Xystĭāni, ōrum, m., ",
         "key": "Xystiani",
+        "part_of_speech": "noun",
+        "senses": [
+            "a people of Caria, Plin. 5, 29, 29, § 109."
+        ],
         "type": "main"
     },
     {
-        "entries": [
+        "front_matter": "xystĭcus, a, um, adj., = custiko/s, ",
+        "key": "xysticus",
+        "part_of_speech": "adjective",
+        "senses": [
             "of or belonging to a xystus. ",
             "Adj.: vanitas,i. e. of the athletes,Tert. Pud. 7 med.—",
             "Subst.: xystĭci, ōrum, m., athletes, Suet. Aug. 45; Dig. 3, 2, 4; Inscr. Grut. 332, 6."
         ],
-        "front_matter": "xystĭcus, a, um, adj., = custiko/s, ",
-        "key": "xysticus",
         "type": "greek"
     },
     {
-        "entries": [
-            "the name of a woman, Plaut. Ps. 1, 2, 81."
-        ],
         "front_matter": "Xystĭlis, is, f., ",
         "key": "Xystilis",
+        "part_of_speech": "noun",
+        "senses": [
+            "the name of a woman, Plaut. Ps. 1, 2, 81."
+        ],
         "type": "main"
     },
     {
-        "entries": [],
         "front_matter": "xystum, i, v xystus.",
         "key": "xystum",
+        "part_of_speech": null,
+        "senses": [],
         "type": "main"
     },
     {
-        "entries": [
+        "front_matter": "xystus, i, m., or xystum, i, n., = custo/s or custo/n. ",
+        "key": "xystus",
+        "part_of_speech": "noun",
+        "senses": [
             " Among the Greeks, a covered portico or gallery, where the athletes exercised in winter, Vitr. 5, 11, 4; 6, 10, 5; Tert. Apol. 38.—",
             " Among the Romans, an open colonnade or portico, or a walk planted with trees, etc., for recreation, conversation, philosophic discussion, etc., Cic. Att. 1, 8, 2; id. Brut. 3, 10; id. Ac. 2, 3, 9; Sen. Ira. 3, 18, 3; Plin. Ep. 2, 17, 17; 5, 6, 19; 9, 7, 4; 9, 36, 3; Suet. Aug. 72; Phaedr. 2, 5, 18.   "
         ],
-        "front_matter": "xystus, i, m., or xystum, i, n., = custo/s or custo/n. ",
-        "key": "xystus",
         "type": "greek"
     }
 ]
