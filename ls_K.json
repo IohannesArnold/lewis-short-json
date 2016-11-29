@@ -1,0 +1,92 @@
+[
+    {
+        "entry_type": "main",
+        "key": "K",
+        "main_notes": "Was used in the oldest period of the language as a separate character for the sound k, while C was used for the sound g. In course of time the character C came to be used also for the k sound, and, after the introduction of the character G, for that alone, and K disappeared almost entirely from the Latin orthography, except at the beginning of a few words, for each of which, also, the letter K itself was in common use as an abbreviation; thus, Kaeso (or Caeso), Kalendae (less correctly Calendae), sometimes Karthago (or Kar.; v. Carthago); and in special connections, Kalumnia, Kaput (for Calumnia and Caput, e. g. k. k. = calumniae causā in jurid. lang.): nam k quidem in nullis verbis utendum puto, nisi quae significat, etiam ut sola ponatur,Quint. 1, 7, 10; cf. id. 1, 4, 9.—Some grammarians, indeed, as early as Quintilian's time, thought it proper always to write K for initial C before a, Quint. 1, 7, 10.—Besides the above-mentioned abbreviations, the K is also found in KA. for capitalis, KK. for castrorum, K. S. for carus suis.",
+        "part_of_speech": "letter",
+        "title_orthography": "K, k"
+    },
+    {
+        "alternative_orthography": [
+            "Cal-"
+        ],
+        "declension": null,
+        "entry_type": "main",
+        "gender": "F",
+        "key": "Kalendae",
+        "main_notes": "(;",
+        "part_of_speech": "noun",
+        "senses": [
+            "V. the letter K), , f.root kal-, cal-; Gr. καλέω; Lat. calāre, clamo; cf. Varr. L. L. 6, § 27 Müll.; prop., the day when the order of days was proclaimed; hence, the Calends, the first day of the month: primi dies nominati Kalendae, ab eo quod his diebus calantur ejus mensis nonae a pontificibus, quintanae an septimanae sint futurae, Varr. L. L. l. l.; Macr. S. 1, 15: sed heus tu, ecquid vides Kalendas venire, Antonium non venire?Cic. Att. 2, 2, 3: litteras accepi datas pridie Kalendas Maias,on the last day of April,id. ib. 13, 20, 1.—Interest was due on the first day of each month; hence: tristes Kalendae,Hor. S. 1, 3, 87: celeres,Ov. R. Am. 561.—This reckoning of time was Roman only; hence: Kalendae Ausoniae,Ov. F. 1, 55.—Prov.: ad Kalendas Graecas solvere, i. e. never, August. ap. Suet. Aug. 87.— The Kalends were sacred to Juno,Ov. F. 1, 55; Macr. S. 1, 15; hence the first day of the year, Kalendae Martiae, was celebrated as a festival of married women, the Matronalia: dabat, sicut Saturnalibus viris apophoreta, ita per Kalendas Martias feminis,Suet. Vesp. 19: Martiis caelebs quid agam Kalendis,Hor. C. 3, 8, 1: scis certe, puto, vestra jam venire Saturnalia, Martias Kalendas,Mart. 5, 84, 10; Dig. 24, 1, 31, § 8; hence: femineae Kalendae = Kal. Mart.,Juv. 9, 53: Kalendae Sextae,the Calends of June,Ov. F. 6, 181: Kalendae Germanicae,the Calends of September,Inscr. Orell. 4949 (cf.: in memoriam patris Septembrem mensem Germanicum appellavit,Suet. Calig. 15): Kalendae Januariae primae,of next January,Cato, R. R. 147 sq.; Inscr. Orell. 3121.",
+            "Transf., a month: nec totidem veteres, quot nunc, habuere Kalendas,Ov. F. 3, 99: intra septimas Kalendas,Mart. 1, 100, 6; 10, 75, 7; Dig. 45, 1, 46."
+        ],
+        "title_genitive": "ārum",
+        "title_orthography": "Kălendae"
+    },
+    {
+        "entry_type": "main",
+        "key": "Kalendalis",
+        "main_notes": "Kălendālis or Kălendāris, e,  Kalendae",
+        "part_of_speech": "adjective",
+        "senses": [
+            "Of or belonging to the Kalends; of or belonging to the first day of the month: tributa Kalendalia,which fall due on the Kalends,Just. Edict. 13: Juno Kalendaris,to whom worship is paid on the Kalends,Macr. S. 1, 15, 18."
+        ]
+    },
+    {
+        "alternative_orthography": [
+            "Cal-"
+        ],
+        "declension": 2,
+        "entry_type": "main",
+        "gender": "N",
+        "key": "Kalendarium",
+        "main_notes": "(), ,  id.",
+        "part_of_speech": "noun",
+        "senses": [
+            "A debt-book, account-book, the interest-book of a money-lender, because monthly interest was reckoned to the Kalends: nemo beneficia in Kalendario scribit,Sen. Ben. 1, 2, 3: versare,id. Ep. 14, 18: quid fenus et Kalendarium et usura, nisi humanae cupiditatis extra naturam quaesita nomina,id. Ben. 7, 10, 3; Orig. 12, 1, 41; 15, 1, 58 al.; also called Kalendarii liber,Sen. Ep. 87, 7.",
+            "Trop.: graciles aurium cutes Kalendarium expendunt,i. e. a fortune, a whole estate,Tert. Hab. Mul. 1, 9 fin."
+        ],
+        "title_genitive": "ii",
+        "title_orthography": "Kălendārĭum"
+    },
+    {
+        "entry_type": "main",
+        "key": "Kalendarius",
+        "main_notes": "Kălendārĭus, a, um, id.",
+        "part_of_speech": "adjective",
+        "senses": [
+            "Of or belonging to the Kalends: strena,Hier. in Ephes. 3, 6, 4."
+        ]
+    },
+    {
+        "entry_type": "main",
+        "key": "Kalo",
+        "main_notes": "Kalo, v. calo.",
+        "part_of_speech": null,
+        "senses": []
+    },
+    {
+        "entry_type": "main",
+        "key": "Karthago",
+        "main_notes": "Karthāgo, v. Carthago.",
+        "part_of_speech": null,
+        "senses": []
+    },
+    {
+        "alternative_orthography": [
+            "Coppa"
+        ],
+        "declension": null,
+        "entry_type": "greek",
+        "gender": "N",
+        "greek_word": "κόππα",
+        "key": "Koppa",
+        "main_notes": "()",
+        "part_of_speech": "noun",
+        "senses": [
+            "A letter of the original Greek alphabet, in which it stood between π and ρ, and corresponded to the Hebr. koph and the Lat. q. It was rejected in the literary language, κ taking its place, but was retained as a numeral, = 90, Quint. 1, 4, 9; 1, 7, 10."
+        ],
+        "title_genitive": "indecl.",
+        "title_orthography": "Koppa"
+    }
+]
